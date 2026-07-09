@@ -163,7 +163,7 @@ images/
 
 # 👨‍💻 Author
 
-**Deepak Baghe**
+**Paresh Prajapati**
 
 Data Analyst | Python Developer | Streamlit Developer
 
