@@ -167,11 +167,8 @@ images/
 
 Data Analyst | Python Developer | Streamlit Developer
 
-GitHub:
-https://github.com/yourusername
-
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/pareshprajapati-co
 
 ---
 
