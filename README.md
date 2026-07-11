@@ -172,4 +172,4 @@ https://linkedin.com/in/pareshprajapati-co
 
 ---
 
-## ⭐ If you like this project, don't forget to Star the repository.
+## ⭐ If you like this project, don't forget to Star the repository..
